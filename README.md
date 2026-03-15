@@ -91,7 +91,10 @@ Feel free to reach out via my [GitHub profile](https://github.com/LeoTheAuJai) o
 ```markdown
 # 🎓 學生佳作管理系統
 ```
-[![YouTube 示範](https://img.shields.io/badge/示範-YouTube 觀看-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Wtyr2uiE3wU)
+```markdown
+# 🎓 Student Work Management System
+```
+[![YouTube Demo](https://img.shields.io/badge/Demo-Watch%20on%20YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Wtyr2uiE3wU)
 
 這是一個基於 **PHP** 和 **phpMyAdmin (MySQL)** 的網頁版**學生佳作管理系統**。它旨在管理和展示優秀的學生專題作品，並為不同的使用者角色提供相應的存取權限。
 
