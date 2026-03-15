@@ -67,13 +67,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 6.  **Run the Application**:
     *   Open your web browser and navigate to the project's URL, e.g., `http://localhost/Student_Work_Mangement_System/`.
 
-## 📸 Screenshots (Optional but Recommended)
-
-Consider adding screenshots of the login page, the main dashboard for different user roles, or the project submission interface. You can place image files in an `images` folder and link them here.
-
-*Example:*
-![Login Page](images/login-screenshot.png)
-
 ## 🎥 Demo Video
 
 A demonstration of the system is available on YouTube.
@@ -160,13 +153,6 @@ Feel free to reach out via my [GitHub profile](https://github.com/LeoTheAuJai) o
 6.  **執行程式**：
     *   打開網頁瀏覽器，在網址列輸入專案的路徑，例如：`http://localhost/Student_Work_Mangement_System/`。
 
-## 📸 畫面截圖 (選擇性，但建議加入)
-
-建議你可以將登入頁面、不同角色的主控台畫面，或作品提交介面截圖，放在 `images` 資料夾中，並在此處加入連結，讓訪客能快速看到系統的樣貌。
-
-*範例：*
-![登入頁面](images/login-screenshot.png)
-
 ## 🎥 示範影片
 
 系統的操作示範已上傳至 YouTube。
@@ -186,10 +172,3 @@ Feel free to reach out via my [GitHub profile](https://github.com/LeoTheAuJai) o
 ---
 ```
 
-## 🔍 主要更正內容
-
-1. **伺服器環境**：由 XAMPP 改為 **DerServer 17**
-2. **資料庫說明**：由 MySQL 改為 **phpMyAdmin (MySQL)**，清楚說明 phpMyAdmin 是用來管理 MySQL 的工具
-3. **安裝路徑**：更新為 DerServer 的典型路徑 `C:\DerServer\htdocs\`
-4. **phpMyAdmin 網址**：加入 DerServer 可能使用的網址 `http://localhost/derphpmyadmin`
-5. **操作步驟**：更詳細說明如何在 phpMyAdmin 中「匯入」SQL 檔案
